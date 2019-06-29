@@ -48,7 +48,7 @@ void fibo(int period, int bars,int firstcountbar, color clr)
 int OnInit()
   {
 //---
- fibo(240,50,1,clrDarkOrange);
+ fibo(60,50,1,clrDarkOrange);
  fibo(240,30,1,clrRoyalBlue);
  //fibo(1440,70,3,clrViolet);
 //---
